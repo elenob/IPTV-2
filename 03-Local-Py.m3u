@@ -1,0 +1,29 @@
+#EXTINF:-1 tvg-id="ABCTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Undefined",ABC TV (720p)
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="NACIONALES" ,NPY
+https://copacotf.desdeparaguay.net/npy/npy_py_baja/chunklist_w1063821552.m3u8?k=230b8e760ebf35ee544ce14a19cbf7dbc79a201c05c71c5f96fd30f9c361889f&exp=1657489561
+
+#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1311939931.m3u8?k=6a5d8b4711c31697152e57173d8bc19a7e6b264ba2790c1e619f03fd0b12814f&exp=1658003254
+
+#EXTINF:-5 tvg-logo="https://i.postimg.cc/vTXJBszc/paravision.png" group-title="NACIONALES", PARAVISIÓN
+http://201.182.242.135:8000/play/a066/index.m3u8
+
+#EXTINF:-8 tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanalBlanco.png" group-title="NACIONALES", UNICANAL
+http://45.55.127.106/live/unicanal_mid.m3u8
+
+#EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
+https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
+
+#EXTINF:-11 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES", LATELE
+https://copacotf.desdeparaguay.net/latele/latele_py_baja/chunklist_w1998470649.m3u8?k=2395a49f156273354d86fc5dbba6870d3f8e088d43ba48225d3a1e8f71194180&exp=1658003055
+
+#EXTINF:-12 tvg-logo="https://www.c9n.com.py/wp-content/uploads/2020/11/330x330_logo_grande_C9N.png" group-title="NACIONALES", C9N
+https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
+
+#EXTINF:-13 tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="NACIONALES", TRECE
+https://stream.rpc.com.py/live/trece_mid.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="ARGENTINA", GEN TV
+https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w190692699.m3u8?k=1cdb7bf489a8f93ad94e545a87082251e24f05d23e0fdec0469f0f045cdaa173&exp=1657498508
