@@ -4,10 +4,10 @@
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="NACIONALES" ,NPY
-https://copacotf.desdeparaguay.net/npy/npy_py_baja/chunklist_w1063821552.m3u8?k=230b8e760ebf35ee544ce14a19cbf7dbc79a201c05c71c5f96fd30f9c361889f&exp=1657489561
+https://copacotf.desdeparaguay.net/npy/npy_py_baja/chunklist_w951057746.m3u8?k=c9b341bbfd98d9eee9fd5f84d4d617d75fb4d0bad05c87e393f6abdb850f1a6d&exp=1658599488
 
 #EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
-https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1311939931.m3u8?k=6a5d8b4711c31697152e57173d8bc19a7e6b264ba2790c1e619f03fd0b12814f&exp=1658003254
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1201273561.m3u8?k=442f338cd491cfe0237b3ef90b969f9960a4bf27742f2819b6cf28a538ae53c4&exp=1658599631
 
 #EXTINF:-5 tvg-logo="https://i.postimg.cc/vTXJBszc/paravision.png" group-title="NACIONALES", PARAVISIÓN
 http://201.182.242.135:8000/play/a066/index.m3u8
@@ -19,7 +19,7 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
 
 #EXTINF:-11 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES", LATELE
-https://copacotf.desdeparaguay.net/latele/latele_py_baja/chunklist_w1998470649.m3u8?k=2395a49f156273354d86fc5dbba6870d3f8e088d43ba48225d3a1e8f71194180&exp=1658003055
+https://copacotf.desdeparaguay.net/latele/latele_py_baja/chunklist_w1376532231.m3u8?k=d8e437b2c833a2d240e54f6b2f47b658446849b0eaeaaa6191e18ba6539a1627&exp=1658599239
 
 #EXTINF:-12 tvg-logo="https://www.c9n.com.py/wp-content/uploads/2020/11/330x330_logo_grande_C9N.png" group-title="NACIONALES", C9N
 https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
