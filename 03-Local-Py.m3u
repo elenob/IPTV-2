@@ -19,7 +19,7 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
 
 #EXTINF:-11 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES", LATELE
-https://tigocloud.desdeparaguay.net/desdepy-od/mp4:sesion.mp4/playlist.m3u8
+https://copacotf.desdeparaguay.net/latele/latele_py_baja/chunklist_w276541749.m3u8?k=5e7fe4b02f2d30e931e330f8d6025d51278af6bad5e41fc148a03a28944c0e09&exp=1659209849
 
 #EXTINF:-12 tvg-logo="https://www.c9n.com.py/wp-content/uploads/2020/11/330x330_logo_grande_C9N.png" group-title="NACIONALES", C9N
 https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
